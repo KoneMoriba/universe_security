@@ -795,6 +795,45 @@ h6,
     box-shadow: 0 0 30px var(--accent1);
 }
 
+/* Correction pour les témoignages sélectionnés en mode sombre */
+[data-theme="dark"] .testimonial-carousel .owl-item.center .testimonial-item {
+    background: var(--bg-primary) !important;
+    color: var(--text-primary) !important;
+    box-shadow: 0 0 30px rgba(74, 107, 197, 0.3) !important;
+    border: 2px solid var(--primary) !important;
+}
+
+[data-theme="dark"] .testimonial-carousel .owl-item.center .testimonial-item h4 {
+    color: var(--primary) !important;
+}
+
+[data-theme="dark"] .testimonial-carousel .owl-item.center .testimonial-item small {
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .testimonial-carousel .owl-item.center .testimonial-item .pt-4 {
+    color: var(--text-primary) !important;
+}
+
+/* Amélioration générale des témoignages en mode sombre */
+[data-theme="dark"] .testimonial-carousel .owl-item .testimonial-item {
+    background-color: var(--bg-secondary) !important;
+    color: var(--text-primary) !important;
+    border: 1px solid var(--border-color) !important;
+}
+
+[data-theme="dark"] .testimonial-carousel .owl-item .testimonial-item h4 {
+    color: var(--primary) !important;
+}
+
+[data-theme="dark"] .testimonial-carousel .owl-item .testimonial-item small {
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .testimonial-carousel .owl-item .testimonial-item .border-bottom {
+    border-color: var(--border-color) !important;
+}
+
 
 /*** Team ***/
 .team-item {
