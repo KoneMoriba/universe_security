@@ -1,0 +1,33 @@
+# Fichiers temporaires
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+error_log
+access_log
+
+# Cache
+cache/
+tmp/
+
+# Fichiers de sauvegarde d'éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Uploads (garder le dossier mais ignorer le contenu)
+uploads/*
+!uploads/.gitkeep
+
+# Configuration locale (si applicable)
+config/local.php
+.env
+
+# Fichiers de développement
+*.orig
+*.rej
