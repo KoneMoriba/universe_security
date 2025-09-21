@@ -79,56 +79,33 @@ try {
 
 <head>
     <meta charset="utf-8">
-    <title>Universe Security - Solutions de Cybersécurité et Sécurité Informatique en Côte d'Ivoire</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="cybersécurité, sécurité informatique, protection données, développement web, solutions IT, Abidjan, Côte d'Ivoire, Universe Security, audit sécurité, consultation IT" name="keywords">
-    <meta content="Universe Security - Leader en cybersécurité et solutions informatiques en Côte d'Ivoire. Services de protection des données, développement web, audit sécurité et consultation IT à Abidjan." name="description">
-    
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://universe-security.ci/">
-    <meta property="og:title" content="Universe Security - Solutions de Cybersécurité en Côte d'Ivoire">
-    <meta property="og:description" content="Leader en cybersécurité et solutions informatiques en Côte d'Ivoire. Protection des données, développement web, audit sécurité.">
-    <meta property="og:image" content="https://universe-security.ci/img/logo universe security.jpg">
-    
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://universe-security.ci/">
-    <meta property="twitter:title" content="Universe Security - Solutions de Cybersécurité en Côte d'Ivoire">
-    <meta property="twitter:description" content="Leader en cybersécurité et solutions informatiques en Côte d'Ivoire. Protection des données, développement web, audit sécurité.">
-    <meta property="twitter:image" content="https://universe-security.ci/img/logo universe security.jpg">
-    
-    <!-- Données structurées JSON-LD -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Universe Security",
-      "url": "https://universe-security.ci",
-      "logo": "https://universe-security.ci/img/logo universe security.jpg",
-      "description": "Entreprise spécialisée en cybersécurité et solutions informatiques en Côte d'Ivoire",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Cocody Angré 8ième tranche",
-        "addressLocality": "Abidjan",
-        "addressCountry": "CI"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+225-0101012501",
-        "contactType": "customer service",
-        "email": "info@universe-security.ci"
-      },
-      "sameAs": [
-        "https://www.facebook.com/universesecurity",
-        "https://www.linkedin.com/company/universe-security",
-        "https://twitter.com/universesecurity"
-      ]
-    }
-    </script>
+    <title>Universe Security - Solutions IT & Cybersécurité en Côte d'Ivoire | Abidjan</title>
+    <meta name="description" content="Universe Security : Expert en cybersécurité, développement web, analyse de données et solutions IT innovantes à Abidjan. Devis gratuit, support 24h/7j. +15 ans d'expérience.">
+    <meta name="keywords" content="cybersécurité Abidjan, développement web Côte d'Ivoire, solutions IT Abidjan, sécurité informatique, analyse données, intelligence artificielle, SEO Abidjan, matériel informatique, Universe Security">
+    <meta name="author" content="Universe Security">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://universes-security.com/">
 
     <!-- Favicon -->
     <link href="img/logo universe security.jpg" rel="icon">
+    <link href="img/logo universe security.jpg" rel="apple-touch-icon">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://universes-security.com/">
+    <meta property="og:title" content="Universe Security - Solutions IT & Cybersécurité en Côte d'Ivoire">
+    <meta property="og:description" content="Expert en cybersécurité, développement web et solutions IT innovantes à Abidjan. Devis gratuit, support 24h/7j.">
+    <meta property="og:image" content="https://universes-security.com/img/logo universe security.jpg">
+    <meta property="og:locale" content="fr_CI">
+    <meta property="og:site_name" content="Universe Security">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://universes-security.com/">
+    <meta property="twitter:title" content="Universe Security - Solutions IT & Cybersécurité">
+    <meta property="twitter:description" content="Expert en cybersécurité, développement web et solutions IT innovantes à Abidjan.">
+    <meta property="twitter:image" content="https://universes-security.com/img/logo universe security.jpg">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -148,7 +125,72 @@ try {
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    
+    <!-- Données Structurées JSON-LD -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Universe Security",
+        "url": "https://universes-security.com/",
+        "logo": "https://universes-security.com/img/logo universe security.jpg",
+        "description": "Expert en cybersécurité, développement web, analyse de données et solutions IT innovantes en Côte d'Ivoire.",
+        "foundingDate": "2022",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Cocody Angré 8ième tranche",
+            "addressLocality": "Abidjan",
+            "addressCountry": "CI"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+225-0101012501",
+            "contactType": "customer service",
+            "availableLanguage": "French"
+        },
+        "sameAs": [
+            "https://www.facebook.com/universesecurity",
+            "https://www.linkedin.com/company/universe-security",
+            "https://twitter.com/universesecurity"
+        ],
+        "areaServed": {
+            "@type": "Country",
+            "name": "Côte d'Ivoire"
+        },
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Services IT",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Cybersécurité",
+                        "description": "Protection complète de vos données et systèmes informatiques"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Développement Web",
+                        "description": "Création de sites web et applications mobiles modernes"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Analyse de Données",
+                        "description": "Transformez vos données en insights stratégiques"
+                    }
+                }
+            ]
+        }
+    }
+    </script>
 </head>
+
 
 <body>
     <!-- Spinner Start -->
@@ -184,8 +226,8 @@ try {
     <!-- Navbar & Carousel Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
-                <img src="img/logo universe security.png" alt="Universe Security - Logo entreprise cybersécurité Côte d'Ivoire" style="height: 100px; width: 150px;">
+            <a href="index.html" class="navbar-brand p-0">
+                <img src="img/logo universe security.png" alt="Logo" style="height: 100px; width: 150px;">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
@@ -194,17 +236,31 @@ try {
                 <div class="navbar-nav ms-auto py-0">
                     <a href="#home" class="nav-item nav-link">Accueil</a>
                     <a href="#about" class="nav-item nav-link">À propos</a>
-                    <a href="services.php" class="nav-item nav-link">Services</a>
+                    <a href="#services" class="nav-item nav-link">Services</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Galerie</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Outils</a>
                         <div class="dropdown-menu fade-up m-0">
-                            <a href="galerie.php#photos-tab" class="dropdown-item"><i class="fas fa-images me-2"></i>Photos</a>
-                            <a href="galerie.php#videos-tab" class="dropdown-item"><i class="fas fa-video me-2"></i>Vidéos</a>
+                            <a href="#features" class="dropdown-item">Pourquoi nous choisir</a>
+                            <a href="#quote" class="dropdown-item">Devis gratuit</a>
                         </div>
                     </div>
-                    <a href="tarification.php" class="nav-item nav-link">Tarification</a>
-                    <a href="equipe.php" class="nav-item nav-link">Équipe</a>
-                    <a href="blog.php" class="nav-item nav-link">Blog</a>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                        <div class="dropdown-menu fade-up m-0">
+                            <a href="#pricing" class="dropdown-item">Tarification</a>
+                            <a href="#team" class="dropdown-item">Équipe</a>
+                            <a href="#testimonials" class="dropdown-item">Témoignages</a>
+                            <a href="#blog" class="dropdown-item">Blog</a>
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Médias</a>
+                        <div class="dropdown-menu fade-up m-0">
+                            <a href="galerie.php" class="dropdown-item"><i class="fas fa-th me-2"></i>Galerie Complète</a>
+                            <a href="#photos" class="dropdown-item"><i class="fas fa-image me-2"></i>Photos</a>
+                            <a href="#videos" class="dropdown-item"><i class="fas fa-video me-2"></i>Vidéos</a>
+                        </div>
+                    </div>
                     <a href="#contact" class="nav-item nav-link">Contact</a>
                 </div>
             </div>
@@ -443,7 +499,7 @@ try {
                         <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="<?php echo ($index * 0.1 + 0.1); ?>s">
                             <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center h-100 p-4">
                                 <div class="service-icon">
-                                    <i class="<?php echo htmlspecialchars($service['icon'] ?: 'fas fa-cogs'); ?> fa-2x text-primary mb-3"></i>
+                                    <i class="fa fa-cogs fa-2x text-primary mb-3"></i>
                                 </div>
                                 <h4 class="mb-3"><?php echo htmlspecialchars($service['title']); ?></h4>
                                 <p class="m-0"><?php echo htmlspecialchars($service['description']); ?></p>
@@ -451,25 +507,35 @@ try {
                         </div>
                     <?php endforeach; ?>
                 <?php else: ?>
-                    <!-- Message si aucun service -->
-                    <div class="col-12 text-center py-5">
-                        <div class="bg-light rounded p-5">
-                            <i class="fas fa-tools fa-4x text-muted mb-4"></i>
-                            <h4 class="text-muted mb-3">Nos services arrivent bientôt</h4>
-                            <p class="text-muted mb-4">Nous préparons actuellement notre catalogue de services complet.</p>
-                            <a href="#contact" class="btn btn-primary">
-                                <i class="fas fa-envelope me-2"></i>Nous Contacter
-                            </a>
+                    <!-- Services par défaut -->
+                    <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
+                        <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center h-100 p-4">
+                            <div class="service-icon">
+                                <i class="fa fa-shield-alt fa-2x text-primary mb-3"></i>
+                            </div>
+                            <h4 class="mb-3">Cybersécurité</h4>
+                            <p class="m-0">Protection complète de vos données et systèmes informatiques</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.2s">
+                        <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center h-100 p-4">
+                            <div class="service-icon">
+                                <i class="fa fa-code fa-2x text-primary mb-3"></i>
+                            </div>
+                            <h4 class="mb-3">Développement</h4>
+                            <p class="m-0">Création de sites web et applications mobiles modernes</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                        <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center h-100 p-4">
+                            <div class="service-icon">
+                                <i class="fa fa-chart-pie fa-2x text-primary mb-3"></i>
+                            </div>
+                            <h4 class="mb-3">Analyse de Données</h4>
+                            <p class="m-0">Transformez vos données en insights stratégiques</p>
                         </div>
                     </div>
                 <?php endif; ?>
-            </div>
-            
-            <!-- Bouton Voir Tous les Services -->
-            <div class="text-center mt-5">
-                <a href="services.php" class="btn btn-primary btn-lg px-5 py-3">
-                    <i class="fas fa-cogs me-2"></i>Voir Tous Nos Services
-                </a>
             </div>
         </div>
     </div>
@@ -692,15 +758,33 @@ try {
                         </div>
                     <?php endforeach; ?>
                 <?php else: ?>
-                    <!-- Message si aucun témoignage -->
-                    <div class="col-12 text-center py-5">
-                        <div class="bg-light rounded p-5">
-                            <i class="fas fa-comments fa-4x text-muted mb-4"></i>
-                            <h4 class="text-muted mb-3">Témoignages à venir</h4>
-                            <p class="text-muted mb-4">Nous collectons actuellement les retours de nos clients satisfaits.</p>
-                            <a href="#contact" class="btn btn-primary">
-                                <i class="fas fa-envelope me-2"></i>Partagez Votre Expérience
-                            </a>
+                    <!-- Témoignages par défaut si aucun témoignage en base -->
+                    <div class="testimonial-item bg-light my-4">
+                        <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                            <div class="bg-primary rounded d-flex align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                                <i class="fa fa-user text-white"></i>
+                            </div>
+                            <div class="ps-4">
+                                <h4 class="text-primary mb-1">Client Satisfait</h4>
+                                <small class="text-uppercase">Entreprise</small>
+                            </div>
+                        </div>
+                        <div class="pt-4 pb-5 px-5">
+                            Excellente collaboration avec cette équipe professionnelle. Leurs solutions ont transformé notre entreprise.
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light my-4">
+                        <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                            <div class="bg-primary rounded d-flex align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                                <i class="fa fa-user text-white"></i>
+                            </div>
+                            <div class="ps-4">
+                                <h4 class="text-primary mb-1">Partenaire Fidèle</h4>
+                                <small class="text-uppercase">Organisation</small>
+                            </div>
+                        </div>
+                        <div class="pt-4 pb-5 px-5">
+                            Service client exceptionnel et solutions innovantes. Je recommande vivement Universe Security.
                         </div>
                     </div>
                 <?php endif; ?>
@@ -825,15 +909,26 @@ try {
                         </div>
                     <?php endforeach; ?>
                 <?php else: ?>
-                    <!-- Message si aucune vidéo -->
-                    <div class="col-12 text-center py-5">
-                        <div class="bg-light rounded p-5">
-                            <i class="fas fa-video fa-4x text-muted mb-4"></i>
-                            <h4 class="text-muted mb-3">Nos vidéos arrivent bientôt</h4>
-                            <p class="text-muted mb-4">Nous préparons du contenu vidéo exclusif pour vous présenter nos services et réalisations.</p>
-                            <a href="galerie.php" class="btn btn-primary">
-                                <i class="fas fa-images me-2"></i>Voir Notre Galerie
-                            </a>
+                    <!-- Vidéo par défaut si aucune vidéo en base -->
+                    <div class="col-lg-6 col-md-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="position-relative overflow-hidden rounded bg-dark">
+                            <video class="w-100" style="height: 300px; object-fit: cover;" controls>
+                                <source src="img/carousel.mp4" type="video/mp4">
+                                Votre navigateur ne supporte pas la lecture de vidéos.
+                            </video>
+                            <div class="position-absolute bottom-0 start-0 w-100 bg-gradient-dark p-3">
+                                <h6 class="text-white mb-1">Présentation Universe Security</h6>
+                                <p class="text-light small mb-0">Découvrez nos services et notre expertise en sécurité informatique</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="position-relative overflow-hidden rounded bg-primary d-flex align-items-center justify-content-center" style="height: 300px;">
+                            <div class="text-center text-white">
+                                <i class="fas fa-video fa-3x mb-3"></i>
+                                <h5 class="mb-3">Plus de Vidéos Bientôt</h5>
+                                <p class="mb-0">Nous préparons du contenu vidéo exclusif pour vous présenter nos services</p>
+                            </div>
                         </div>
                     </div>
                 <?php endif; ?>
@@ -1224,7 +1319,7 @@ try {
                             <div class="link-animated d-flex flex-column justify-content-start">
                                 <a class="text-light mb-2" href="#home"><i class="bi bi-arrow-right text-primary me-2"></i>Accueil</a>
                                 <a class="text-light mb-2" href="#about"><i class="bi bi-arrow-right text-primary me-2"></i>À Propos</a>
-                                <a class="text-light mb-2" href="services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Nos Services</a>
+                                <a class="text-light mb-2" href="#services"><i class="bi bi-arrow-right text-primary me-2"></i>Nos Services</a>
                                 <a class="text-light mb-2" href="#team"><i class="bi bi-arrow-right text-primary me-2"></i>Notre Équipe</a>
                                 <a class="text-light mb-2" href="#blog"><i class="bi bi-arrow-right text-primary me-2"></i>Blog</a>
                                 <a class="text-light" href="#contact"><i class="bi bi-arrow-right text-primary me-2"></i>Contact</a>

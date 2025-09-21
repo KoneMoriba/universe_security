@@ -22,17 +22,10 @@ try {
 
 <head>
     <meta charset="utf-8">
-    <title>Notre Équipe d'Experts en Cybersécurité - Universe Security Côte d'Ivoire</title>
+    <title>Notre Équipe - Universe Security</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="équipe cybersécurité, experts sécurité informatique, consultants IT, professionnels sécurité, Abidjan, Côte d'Ivoire, spécialistes cybersécurité" name="keywords">
-    <meta content="Rencontrez notre équipe d'experts en cybersécurité et sécurité informatique en Côte d'Ivoire. Professionnels expérimentés basés à Abidjan." name="description">
-    
-    <!-- Open Graph -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://universe-security.ci/equipe.php">
-    <meta property="og:title" content="Notre Équipe d'Experts - Universe Security">
-    <meta property="og:description" content="Rencontrez notre équipe d'experts en cybersécurité et sécurité informatique en Côte d'Ivoire.">
-    <meta property="og:image" content="https://universe-security.ci/img/logo universe security.jpg">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
 
     <!-- Favicon -->
     <link href="img/logo universe security.jpg" rel="icon">

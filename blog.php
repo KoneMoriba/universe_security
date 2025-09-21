@@ -35,20 +35,13 @@ try {
 
 <head>
     <meta charset="utf-8">
-    <title>Blog Cybersécurité et Actualités IT - Universe Security Côte d'Ivoire</title>
+    <title>Blog - Universe Security</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     
     <!-- Favicon -->
     <link href="img/logo universe security.jpg" rel="icon">
-    <meta content="blog cybersécurité, actualités sécurité informatique, conseils IT, tendances cybersécurité, Côte d'Ivoire, articles sécurité" name="keywords">
-    <meta content="Blog spécialisé en cybersécurité et sécurité informatique. Actualités, conseils et tendances IT en Côte d'Ivoire par les experts d'Universe Security." name="description">
-    
-    <!-- Open Graph -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://universe-security.ci/blog.php">
-    <meta property="og:title" content="Blog Cybersécurité - Universe Security">
-    <meta property="og:description" content="Blog spécialisé en cybersécurité et sécurité informatique. Actualités, conseils et tendances IT.">
-    <meta property="og:image" content="https://universe-security.ci/img/logo universe security.jpg">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
